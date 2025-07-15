@@ -149,6 +149,9 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-iz-hd.png" group-title="BELGESEL KANALLARI", BEIN IZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19078/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BELGESEL KANALLARI", BİZİM EV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trtbelgesel.png" group-title="BELGESEL KANALLARI", TRT BELGESEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -233,9 +236,6 @@ http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png" group-title="HABER KANALLARI", CNBC-E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-#EXTINF:-1 tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER KANALLARI", FİNANS TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HABER KANALLARI", LİDER HABER TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
@@ -352,7 +352,7 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/nbatv.png" group-title="SPOR KANALLARI", NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://myspace2-myspace.hf.space/proxy/m3u?url=https%3A%2F%2Flll.istekbet3.tv%2Fyayinnbatv.m3u8
+http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://grtv54.live/img/skysportsf1.png" group-title="SPOR KANALLARI", SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://myspace2-myspace.hf.space/proxy/m3u?url=https%3A%2F%2Flll.istekbet3.tv%2Fyayinf1.m3u8
