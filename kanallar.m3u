@@ -398,9 +398,6 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-1-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6744/index.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-2-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6745/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-3-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6743/index.m3u8
