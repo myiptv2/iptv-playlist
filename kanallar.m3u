@@ -86,6 +86,9 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mUoFjhKccv8A5LBLC1i6SoGbwzC3MykY25aP_52kh-vA=s160-c-k-c0x00ffffff-no-rj" group-title="ULUSAL KANALLAR", TİVİ TÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" group-title="ULUSAL KANALLAR", CINE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png" group-title="ULUSAL KANALLAR", EURO D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -743,6 +746,9 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 #EXTINF:-1 tvg-logo="https://isvicretv.com/upload/tema/20220228__5564691424.jpg" group-title="YEREL KANALLAR", İSVİÇRE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://viyanatv.com/uploads/logo/viyanatvbu.png" group-title="YEREL KANALLAR", VİYANA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png" group-title="EĞİTİM KANALLARI", TRT EBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
