@@ -504,6 +504,26 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAut
 #EXTINF:-1 tvg-id="bs_arectv33_sbs_static_ss2" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://bs.arectv33.sbs/static/ss2.m3u8
+#EXTINF:-1 tvg-id="undefined" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT + (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv54.live/
+https://lll.istekbet3.tv/yayinex2.m3u8
+#EXTINF:-1 tvg-id="undefined" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT + (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv54.live/
+https://lll.istekbet3.tv/yayinex3.m3u8
+#EXTINF:-1 tvg-id="undefined" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT + (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv54.live/
+https://lll.istekbet3.tv/yayinex4.m3u8
+#EXTINF:-1 tvg-id="undefined" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT + (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv54.live/
+https://lll.istekbet3.tv/yayinex5.m3u8
+#EXTINF:-1 tvg-id="undefined" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT + (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv54.live/
+https://lll.istekbet3.tv/yayinex1.m3u8
 #EXTINF:-1 tvg-id="demoyayiyin_sunxtvcloud_workers_dev_smartspor1_tracks-v1a1_mono" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
