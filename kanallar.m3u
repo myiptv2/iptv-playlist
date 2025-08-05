@@ -5,19 +5,19 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/trt1_stream/index.m3u8?wmsAuthSi
 #EXTINF:-1 tvg-id="yayintrt1" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="ULUSAL KANALLAR", TRT 1 (2)
 #EXTVLCOPT:http-referrer=https://grtv54.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://cfd/yayintrt1.m3u8
+https:///yayintrt1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trt2.png" group-title="ULUSAL KANALLAR", TRT 2 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgMjozNjowNyBQTSZoYXNoX3ZhbHVlPTNCTEtWdWhnWCtLRVBkUFJrTUFva2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 #EXTINF:-1 tvg-id="tv-trt2_medya_trt_com_tr_master" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trt2.png" group-title="ULUSAL KANALLAR", TRT 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://tv-/master.m3u8
+https:///master.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="ULUSAL KANALLAR", STAR TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgMjozNjowNyBQTSZoYXNoX3ZhbHVlPTNCTEtWdWhnWCtLRVBkUFJrTUFva2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 #EXTINF:-1 tvg-id="dogus-live_daioncdn_net_startv_playlist" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="ULUSAL KANALLAR", STAR TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://dogt.m3u8
+https://dogut.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="ULUSAL KANALLAR", SHOW TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/showtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgMjozNjowNyBQTSZoYXNoX3ZhbHVlPTNCTEtWdWhnWCtLRVBkUFJrTUFva2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
