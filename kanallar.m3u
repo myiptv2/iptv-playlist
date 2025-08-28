@@ -29,9 +29,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSig
 #EXTINF:-1 tvg-id="rnttwmjcin_turknet_ercdn_net_lcpmvefbyo_atv_atv" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="ULUSAL KANALLAR", ATV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="110" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="ULUSAL KANALLAR", ATV (3)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/atv.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="ULUSAL KANALLAR", NOW TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE0IEFNJmhhc2hfdmFsdWU9cGFwQmhteVRObFVJdDFLb1FJZ1ZDUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
@@ -68,9 +65,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_5_stream/index.m3u8?wmsAuthS
 #EXTINF:-1 tvg-id="tv8_daioncdn_net_tv8bucuk_tv8bucuk_1080p" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="ULUSAL KANALLAR", TV8.5 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-id="108" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="ULUSAL KANALLAR", TV8.5 (3)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/tv85.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-id="185_234_111_229_play_a01x" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="ULUSAL KANALLAR", TV8 INTERNATIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://185.234.111.229:8000/play/a01x
@@ -206,9 +200,6 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="78" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/discs.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (3)
 https://goldvod.org/tv/vavoo?id=20954040600611bde9e160
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (4)
@@ -216,25 +207,16 @@ https://goldvod.org/tv/vavoo?id=9700986623c97a7651f69
 #EXTINF:-1 tvg-id="cb286df8_rossteleccom_net_iptv_zcwpcl9k3lr827_6856_index" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/history_hd_05736FE8-FA67-4E96-AED2-35A1366F5E77.png" group-title="BELGESEL KANALLARI", HISTORY CHANNEL (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6856/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/history_hd_05736FE8-FA67-4E96-AED2-35A1366F5E77.png" group-title="BELGESEL KANALLARI", HISTORY CHANNEL (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/history.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/history_hd_05736FE8-FA67-4E96-AED2-35A1366F5E77.png" group-title="BELGESEL KANALLARI", HISTORY CHANNEL (3)
 https://goldvod.org/tv/vavoo?id=461893028cb81fdc7223c
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="BELGESEL KANALLARI", VIASAT HISTORY (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="30" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="BELGESEL KANALLARI", VIASAT HISTORY (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/viasathistory.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="BELGESEL KANALLARI", VIASAT HISTORY (3)
 https://goldvod.org/tv/vavoo?id=348046896213b84ce9a729
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/national-geographic-hd.png" group-title="BELGESEL KANALLARI", TARİH TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="85" tvg-logo="https://digiturkpaketler.com/img/kanallar/national-geographic-hd.png" group-title="BELGESEL KANALLARI", TARİH TV (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/tarihtv.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/national-geographic-hd.png" group-title="BELGESEL KANALLARI", NATIONAL GEOGRAPHIC (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
@@ -250,15 +232,9 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="BELGESEL KANALLARI", DISCOVERY CHANNEL (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="79" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="BELGESEL KANALLARI", DISCOVERY CHANNEL (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/discovery.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-id="cb286df8_rossteleccom_net_iptv_zcwpcl9k3lr827_6854_index" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bbc-earth-hd-buyuk.png" group-title="BELGESEL KANALLARI", BBC EARTH (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6854/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bbc-earth-hd-buyuk.png" group-title="BELGESEL KANALLARI", BBC EARTH (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/bbc.m3u8?token=yLSajyA9JZ4hGeRsRT_E_Q&tms=1755512169
 #EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="BELGESEL KANALLARI", LOVE NATURE (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
@@ -449,9 +425,6 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="vhxyrsly_rocketcdn_com_meltemtv_chunklist" tvg-logo="https://meltemtv.com.tr/uploads/logo.png" group-title="HABER KANALLARI", MELTEM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="edge1_socialsmart_tv_on4_bant1_chunks" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/logoon44.png" group-title="HABER KANALLARI", ON 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png" group-title="HABER KANALLARI", TV 5 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
@@ -505,9 +478,6 @@ https://goldvod.org/tv/vavoo?id=2737963486b4d9c437a945
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv56.live/
 https://one.zirvestream11.cfd/yayinbm1.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-1-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 1 (2)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.prectv53.lol/live/bm1.m3u8?ad=random?token=QvY66Z0CnYnc-vlIxUmshQ&tms=1755512168
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-1-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 1 (3)
 https://goldvod.org/tv/vavoo?id=4071474743dbe8a60b9395
 #EXTINF:-1 tvg-id="yayinbm2" tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-2-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 2 (1)
