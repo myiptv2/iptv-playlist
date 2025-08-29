@@ -524,13 +524,15 @@ https://goldvod.org/tv/vavoo?id=3269372326de5ff1a4d9d7
 https://goldvod.org/tv/vavoo?id=1507829436cb5aa4fb5b34
 #EXTINF:-1 tvg-id="Goldvod" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (6)
 https://goldvod.org/tv/vavoo?id=376048776421ffc14b9074
-#EXTINF:-1 tvg-id="yayinsmarts" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (1)
+#EXTINF:-1 tvg-id="demoyayiyin_sunxtvcloud_workers_dev_smartspor1_tracks-v1a1_mono" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv56.live/
-https://one.zirvestream11.cfd/yayinsmarts.m3u8
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="139" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (2)
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.prectv53.lol/live/smart1.m3u8?token=QvY66Z0CnYnc-vlIxUmshQ&tms=1755512168
+#EXTINF:-1 tvg-id="demoyayiyin_sunxtvcloud_workers_dev_smartspor2_tracks-v1a1_mono" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="D SMART KANALLARI", SMART SPOR 2 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="138" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="D SMART KANALLARI", SMART SPOR 2 (2)
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.prectv53.lol/live/smart2.m3u8?token=QvY66Z0CnYnc-vlIxUmshQ&tms=1755512168
@@ -624,20 +626,18 @@ https://one.zirvestream11.cfd/yayinf1.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="yayineu1" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1 (2)
+#EXTINF:-1 tvg-id="demoyayiyin_sunxtvcloud_workers_dev_eurosport1_tracks-v1a1_mono" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv56.live/
-https://one.zirvestream11.cfd/yayineu1.m3u8
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1 (3)
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.prectv53.lol/live/euro1.m3u8?token=QvY66Z0CnYnc-vlIxUmshQ&tms=1755512168
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="yayineu2" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2 (2)
+#EXTINF:-1 tvg-id="demoyayiyin_sunxtvcloud_workers_dev_eurosport2_tracks-v1a1_mono" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv56.live/
-https://one.zirvestream11.cfd/yayineu2.m3u8
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="135" tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2 (3)
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.prectv53.lol/live/euro2.m3u8?token=QvY66Z0CnYnc-vlIxUmshQ&tms=1755512168
