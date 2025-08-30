@@ -158,9 +158,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="raw_githubusercontent_com_ipstreet312_freeiptv_master_ressources_tur_estar" tvg-logo="https://www.eurostartv.com.tr/img/logo.png" group-title="ULUSAL KANALLAR", EURO STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:-1 tvg-id="livetv_radyotvonline_net_kanal7live_kanal7avr_playlist" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png" group-title="ULUSAL KANALLAR", KANAL 7 AVRUPA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="edge1_socialsmart_tv_ftvturk_bant1_playlist" tvg-logo="" group-title="ULUSAL KANALLAR", FORTUNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
@@ -350,9 +347,6 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/ulke-tv-hd.png" group-title="HABER KANALLARI", ÜLKE TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE1IEFNJmhhc2hfdmFsdWU9bXNnbDJOSUVaTDNqZFhmMk9tdlpZQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-#EXTINF:-1 tvg-id="livetv_radyotvonline_net_kanal7live_ulketv_playlist" tvg-logo="https://digiturkpaketler.com/img/kanallar/ulke-tv-hd.png" group-title="HABER KANALLARI", ÜLKE TV (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/tgrt-haber.png" group-title="HABER KANALLARI", TGRT HABER (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tgrthaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEwOjEzOjE0IEFNJmhhc2hfdmFsdWU9cGFwQmhteVRObFVJdDFLb1FJZ1ZDUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
