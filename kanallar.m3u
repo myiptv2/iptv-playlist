@@ -263,9 +263,6 @@ https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="HABER KANALLARI", SÖZCÜ (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDkvMTIvMjAyNSAwNToxMzo1OCBBTSZoYXNoX3ZhbHVlPWpHdXhnMFdNWlR5UE5yblJ5TDhaWWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgmY2xpZW50X2lwPTQuMjI3LjE3NC4xNzYmY2hlY2tpcD10cnVl
-#EXTINF:-1 tvg-id="176_65_146_123_play_a019_index" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="HABER KANALLARI", SÖZCÜ (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tele1.png" group-title="HABER KANALLARI", TELE 1 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tele1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDkvMTIvMjAyNSAwNToxMzo1OCBBTSZoYXNoX3ZhbHVlPWpHdXhnMFdNWlR5UE5yblJ5TDhaWWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgmY2xpZW50X2lwPTQuMjI3LjE3NC4xNzYmY2hlY2tpcD10cnVl
@@ -799,9 +796,6 @@ https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="edge1_socialsmart_tv_altastv_bant1_playlist" tvg-logo="https://www.altastv.com.tr/images/altastvlogo.png" group-title="YEREL KANALLAR", ALTAŞ TV ORDU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="2_rtmp_org_tv217_yayin.stream_chunklist" tvg-logo="https://aras.tv/resimler/logo.png" group-title="YEREL KANALLAR", ARAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="YEREL KANALLAR", AS TV (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDkvMTIvMjAyNSAwNToxMzo1OCBBTSZoYXNoX3ZhbHVlPWpHdXhnMFdNWlR5UE5yblJ5TDhaWWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgmY2xpZW50X2lwPTQuMjI3LjE3NC4xNzYmY2hlY2tpcD10cnVl
@@ -988,9 +982,6 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1 tvg-id="live_artidijitalmedya_com_artidijital_vuslattv_vuslattv_playlist" tvg-logo="https://www.malatyavuslattv.com/images/banner/malatya_vuslat_logo.png" group-title="YEREL KANALLAR", MALATYA VUSLAT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
-#EXTINF:-1 tvg-id="592f1881b3d5f_streamlock_net_5ocaktv_5ocaktv_chunklist_w1939638168" tvg-logo="" group-title="YEREL KANALLAR", 5 OCAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8
 #EXTINF:-1 tvg-id="live_artidijitalmedya_com_artidijital_denizpostasi_denizpostasi_playlist" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" group-title="YEREL KANALLAR", DENİZ POSTASI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
