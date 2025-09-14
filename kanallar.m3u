@@ -56,9 +56,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 #EXTINF:-1 tvg-id="playlist_fasttvcdn_com_pl_rfrk9821hdy9dayo8wfyha_dizi-tv_playlist_0" tvg-logo="" group-title="ULUSAL KANALLAR", TRT NOSTALJİ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="raw_githubusercontent_com_tecotv2025_tecotv_refs_heads_main_playlist_ulusal_kanal" tvg-logo="https://s.ulusal.com.tr/assets/web/images/logo.png" group-title="ULUSAL KANALLAR", ULUSAL KANAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="kanal7-live_daioncdn_net_kanal7_kanal7_1080p" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanal-7-hd.png" group-title="ULUSAL KANALLAR", KANAL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
