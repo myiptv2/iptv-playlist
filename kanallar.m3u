@@ -319,10 +319,6 @@ https://goldvod.org/tv/vavoo?id=25896823596a84e43dd09
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-haber-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
-https://macarenatv3.com/705/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="S SPORTS KANALLARI", S SPORT 2 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv7.live/
