@@ -454,8 +454,6 @@ https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv58.live/
 https://seven.zirvedesin7.sbs/yayinex1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuBUwmDEIxAFg9_iEHtMvtbTTc9a6bD1t5dQxmBTZ_0U6towl04Kw3H8&s=10" group-title="EXXEN SPOR KANALLARI", EXXEN (2)
-https://goldvod.org/tv/vavoo?id=20245689820af9ca3911b8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuBUwmDEIxAFg9_iEHtMvtbTTc9a6bD1t5dQxmBTZ_0U6towl04Kw3H8&s=10" group-title="EXXEN SPOR KANALLARI", EXXEN (3)
 https://goldvod.org/tv/vavoo?id=24320962ff3ce3209657
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcA6VvTXi4mtR26U9aHbM-9M-Nczx_IXBu5oYxYDrC2GS103p1ecKdFQs&s=10" group-title="SİNEMA KANALLARI", TABII TV
@@ -715,9 +713,6 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 #EXTINF:-1 tvg-logo="https://kaytv.com.tr/resimler/logo.png" group-title="YEREL KANALLAR", KAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", KASTAMONU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 #EXTINF:-1 tvg-logo="https://www.konyaolaytv.com.tr/resimler/logo.png" group-title="YEREL KANALLAR", KONYA OLAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
