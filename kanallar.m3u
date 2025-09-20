@@ -257,7 +257,7 @@ https://seven.zirvedesin7.sbs/yayinzirve.m3u8
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/701/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (4)
 https://goldvod.org/tv/vavoo?id=2113462398d8dd57a8ea73
@@ -271,7 +271,7 @@ https://goldvod.org/tv/vavoo?id=66217962033a2d3e9c47f
 https://seven.zirvedesin7.sbs/yayinb2.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/702/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (3)
 https://goldvod.org/tv/vavoo?id=1447241506bdccfad8b85c
@@ -281,7 +281,7 @@ https://goldvod.org/tv/vavoo?id=1447241506bdccfad8b85c
 https://seven.zirvedesin7.sbs/yayinb3.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/703/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (3)
 https://goldvod.org/tv/vavoo?id=17005958018c5d23b49ef0
@@ -291,7 +291,7 @@ https://goldvod.org/tv/vavoo?id=17005958018c5d23b49ef0
 https://seven.zirvedesin7.sbs/yayinb4.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/704/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (3)
 https://goldvod.org/tv/vavoo?id=1872232768c7c65ceb9862
@@ -318,11 +318,11 @@ https://goldvod.org/tv/vavoo?id=25896823596a84e43dd09
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/705/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="S SPORTS KANALLARI", S SPORT 2 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/730/mono.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
@@ -340,7 +340,7 @@ https://goldvod.org/tv/vavoo?id=1507829436cb5aa4fb5b34
 https://goldvod.org/tv/vavoo?id=376048776421ffc14b9074
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/707/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="D SMART KANALLARI", SMART SPOR 2 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
@@ -351,7 +351,7 @@ https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 https://seven.zirvedesin7.sbs/yayint1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/706/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (3)
 https://goldvod.org/tv/vavoo?id=1528949791210996169a6f
@@ -361,7 +361,7 @@ https://goldvod.org/tv/vavoo?id=1528949791210996169a6f
 https://seven.zirvedesin7.sbs/yayint2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/711/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (3)
 https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
@@ -371,7 +371,7 @@ https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
 https://seven.zirvedesin7.sbs/yayint3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/712/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (3)
 https://goldvod.org/tv/vavoo?id=37949240505288959ad99c
@@ -386,7 +386,7 @@ https://goldvod.org/tv/vavoo?id=3307062704472686916fe7
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv7.live/
+#EXTVLCOPT:http-referrer=https://yakatv8.live/
 https://macarenatv3.com/709/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="SPOR KANALLARI", HT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
