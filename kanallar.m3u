@@ -80,9 +80,6 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mUoFjhKccv8A5LBLC1i6SoGbwzC3MykY25aP_52kh-vA=s160-c-k-c0x00ffffff-no-rj" group-title="ULUSAL KANALLAR", TİVİ TÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" group-title="ULUSAL KANALLAR", CINE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png" group-title="ULUSAL KANALLAR", EURO D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -95,21 +92,12 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ULUSAL KANALLAR", FORTUNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y4Y8ixs7YqfChv6VakTWyu11VvNFMIhZ2pxL8Y2XoihUCddskYG77DpvohATkbH7JxPdf7JEIQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ULUSAL KANALLAR", KANAL 3 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sVLFaRlTxJ8lFntG4kR9xE7l8tVsQQ_kv_hp4i6lx2GkIpIKnbWTApJ14CKPSDcazQHVEzo78w=s160-c-k-c0x00ffffff-no-rj" group-title="ULUSAL KANALLAR", KANAL 12 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/K_AVRUPA_LOGO.png/180px-K_AVRUPA_LOGO.png" group-title="ULUSAL KANALLAR", KANAL AVRUPA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" group-title="ULUSAL KANALLAR", KANAL B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:-1 tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png" group-title="ULUSAL KANALLAR", TİVİ 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/dmax-hd.png" group-title="BELGESEL KANALLARI", DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
@@ -165,9 +153,6 @@ https://goldvod.org/tv/vavoo?id=178850393550c13d869fbf
 https://goldvod.org/tv/vavoo?id=1281270568d7cb2533f147
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-gurme-hd.png" group-title="BELGESEL KANALLARI", BEIN GURME
 https://goldvod.org/tv/vavoo?id=361703541447c2d8cea904
-#EXTINF:-1 tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/03/ciftcitv-logo-orj.png" group-title="BELGESEL KANALLARI", ÇİFTÇİ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3KDE76QjMkCThhHujxBMTz_sy87j4Dm00gbZUza0hH7wUK0bT1CiDx5-EdS8unSQDqQhhubSaQ=s900-c-k-c0x00ffffff-no-rj" group-title="BELGESEL KANALLARI", TARIM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
@@ -514,12 +499,6 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="MÜZİK KANALLARI", TRT MÜZİK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="MÜZİK KANALLARI", POWER TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/powerturk_D4EF214E-FC01-4020-A535-655E2B64E8AC.png" group-title="MÜZİK KANALLARI", POWER TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="MÜZİK KANALLARI", DREAM TÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -556,9 +535,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f
 #EXTINF:-1 tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="MÜZİK KANALLARI", SLOW KARADENİZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1 tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo.png" group-title="MÜZİK KANALLARI", CAN TEMPO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/minika-cocuk-logo.png" group-title="ÇOCUK KANALLARI", MİNİKA ÇOCUK (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
@@ -577,12 +553,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/nickelodeon.png" group-title="ÇOCUK KANALLARI", NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6848/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="YEREL KANALLAR", ANADOLU NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png" group-title="YEREL KANALLAR", Bİ KANAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", ADA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
