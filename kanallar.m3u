@@ -104,6 +104,9 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/K_AVRUPA_LOGO.png/180px-K_AVRUPA_LOGO.png" group-title="ULUSAL KANALLAR", KANAL AVRUPA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" group-title="ULUSAL KANALLAR", KANAL B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png" group-title="ULUSAL KANALLAR", TİVİ 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -487,11 +490,11 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6807/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="SİNEMA KANALLARI", SİNEMA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6806/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="SİNEMA KANALLARI", SİNEMA AKSİYON 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6812/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="SİNEMA KANALLARI", SİNEMA 1002
 https://goldvod.org/tv/vavoo?id=426904204409e59151cc23
-#EXTINF:-1 tvg-logo="https://www.cinemax6.com/uploads/logo/Xinemax-200200-4_1.png" group-title="SİNEMA KANALLARI", CINE MAX 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SİNEMA KANALLARI", SÜPERTÜRK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
