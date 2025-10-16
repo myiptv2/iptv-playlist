@@ -487,9 +487,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6807/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="SİNEMA KANALLARI", SİNEMA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6806/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="SİNEMA KANALLARI", SİNEMA AKSİYON 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6812/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="SİNEMA KANALLARI", SİNEMA 1002
 https://goldvod.org/tv/vavoo?id=426904204409e59151cc23
 #EXTINF:-1 tvg-logo="https://www.cinemax6.com/uploads/logo/Xinemax-200200-4_1.png" group-title="SİNEMA KANALLARI", CINE MAX 6
