@@ -563,7 +563,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6850/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://gbzottvsc17.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479155/9f00a54a-0907-4386-b7f1-cff6fe49cd68.png" group-title="ÇOCUK KANALLARI", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=350" group-title="ÇOCUK KANALLARI", TRT ÇOCUK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
