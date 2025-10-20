@@ -168,9 +168,6 @@ https://goldvod.org/tv/vavoo?id=361703541447c2d8cea904
 #EXTINF:-1 tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/03/ciftcitv-logo-orj.png" group-title="BELGESEL KANALLARI", ÇİFTÇİ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3KDE76QjMkCThhHujxBMTz_sy87j4Dm00gbZUza0hH7wUK0bT1CiDx5-EdS8unSQDqQhhubSaQ=s900-c-k-c0x00ffffff-no-rj" group-title="BELGESEL KANALLARI", TARIM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/halktv.png" group-title="HABER KANALLARI", HALK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
@@ -588,9 +585,6 @@ https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.altastv.com.tr/images/altastvlogo.png" group-title="YEREL KANALLAR", ALTAŞ TV ORDU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aras.tv/resimler/logo.png" group-title="YEREL KANALLAR", ARAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="YEREL KANALLAR", AS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
@@ -681,9 +675,6 @@ https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kanal34.com/wp-content/uploads/2023/08/resim.png" group-title="YEREL KANALLAR", KANAL 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.euromediacenter.com/kanal34/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", KANAL 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://kanal58.com.tr/assets/images/logo/33808logo.png" group-title="YEREL KANALLAR", KANAL 58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
