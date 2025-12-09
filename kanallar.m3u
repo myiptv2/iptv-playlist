@@ -221,80 +221,9 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1849440424902979584/hfPZkObU_400x400.jpg" group-title="HABER KANALLARI", YENİ ÇAĞ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayin1.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (2)
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayininat.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinb2.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinb3.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinb4.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-5-hd.webp" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 5 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinb5.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-1-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 1 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinbm1.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-2-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 2 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinbm2.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-haber-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinss.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinss2.m3u8
-#EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinex2.m3u8
-#EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinex3.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinsmarts.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="D SMART KANALLARI", SMART SPOR 2 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinsmarts2.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayint1.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayint2.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayint3.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayint4.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
@@ -321,18 +250,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1958524121144254465/En6Z48fM_400x400.jpg" group-title="SPOR KANALLARI", SIFIR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/nbatv.png" group-title="SPOR KANALLARI", NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayinnbatv.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayineu1.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1480.xyz/
-https://yc4.04bf112a615942b45.sbs/yayineu2.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/tjk-tv.png" group-title="SPOR KANALLARI", TJK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
