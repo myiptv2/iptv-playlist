@@ -284,10 +284,6 @@ https://pqy.d72577a9dd0ec0.sbs/yayint1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
 https://pqy.d72577a9dd0ec0.sbs/yayint2.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
-https://pqy.d72577a9dd0ec0.sbs/yayint3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
@@ -322,10 +318,6 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
 https://pqy.d72577a9dd0ec0.sbs/yayinnbatv.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
-https://pqy.d72577a9dd0ec0.sbs/yayineu1.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-2-hd.png" group-title="SPOR KANALLARI", EURO SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1485.xyz/
