@@ -433,9 +433,6 @@ https://live.euromediacenter.com/kanal34/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", KANAL 53
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://kanal58.com.tr/assets/images/logo/33808logo.png" group-title="YEREL KANALLAR", KANAL 58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanalurfa.com/upload/masaustu.png" group-title="YEREL KANALLAR", KANAL URFA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
