@@ -59,6 +59,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/tv4-logo_11E36C9F-89E9-43D5-8CDE-C53C86DDCE24.png" group-title="ULUSAL KANALLAR", TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-logo="https://gzttv.tr/logo.png" group-title="ULUSAL KANALLAR", GZT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" group-title="ULUSAL KANALLAR", ONS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
@@ -98,6 +101,9 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/nat-geo-wild-hd.png" group-title="BELGESEL KANALLARI", NAT GEO WILD (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://tr.wikipedia.org/wiki/Dosya:CGTN_Documentary_logo.png" group-title="BELGESEL KANALLARI", CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trtbelgesel.png" group-title="BELGESEL KANALLARI", TRT BELGESEL (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
@@ -149,6 +155,9 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/tgrt-haber.png" group-title="HABER KANALLARI", TGRT HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvnet.com.tr/dist/img/logo.png" group-title="HABER KANALLARI", TV NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/akit-tv-buyuk.png" group-title="HABER KANALLARI", AKİT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
