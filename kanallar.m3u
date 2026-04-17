@@ -113,6 +113,9 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/03/ciftcitv-logo-orj.png" group-title="BELGESEL KANALLARI", ÇİFTÇİ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3KDE76QjMkCThhHujxBMTz_sy87j4Dm00gbZUza0hH7wUK0bT1CiDx5-EdS8unSQDqQhhubSaQ=s900-c-k-c0x00ffffff-no-rj" group-title="BELGESEL KANALLARI", TARIM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/halktv.png" group-title="HABER KANALLARI", HALK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
