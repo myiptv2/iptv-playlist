@@ -41,9 +41,6 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="ULUSAL KANALLAR", BEYAZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="ULUSAL KANALLAR", FASHION TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Fashiononetvlogo.png" group-title="ULUSAL KANALLAR", FASHION ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
@@ -167,9 +164,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/bloomberg.png" group-title="HABER KANALLARI", BLOOMBERG HT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/a-para-hd.png" group-title="HABER KANALLARI", A PARA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://tinyurl.com/yc7a34p5
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png" group-title="HABER KANALLARI", CNBC-E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -406,9 +400,6 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanal33.com.tr/images/logok.png" group-title="YEREL KANALLAR", KANAL 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kanal34.com/wp-content/uploads/2023/08/resim.png" group-title="YEREL KANALLAR", KANAL 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://live.euromediacenter.com/kanal34/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", KANAL 53
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
