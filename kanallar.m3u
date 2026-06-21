@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="ULUSAL KANALLAR", TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trt2.png" group-title="ULUSAL KANALLAR", TRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://tv-trt2.medya.trt.com.tr/master.m3u8
