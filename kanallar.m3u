@@ -400,9 +400,6 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" group-title="YEREL KANALLAR", TV 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.tv264.gunesozturk.com/Uploads/img/logo/ubp82n3ksdk9n4xlof.jpg" group-title="YEREL KANALLAR", TV 264
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_142.png" group-title="YEREL KANALLAR", TV A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
